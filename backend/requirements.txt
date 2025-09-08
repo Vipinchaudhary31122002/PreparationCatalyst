@@ -1,0 +1,10 @@
+Flask-Login==0.6.2
+Flask-SQLAlchemy==3.0.5
+Flask==2.3.3
+gramformer==1.0
+language-tool-python==2.7.0
+sentence-transformers==2.2.2
+spacy==3.6.1
+textstat==0.7.3
+torch==2.0.1
+Werkzeug==2.3.7
